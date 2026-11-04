@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-groq
+langchain-core
+langchain-community
+langchain-text-splitters
+python-dotenv
+langsmith
+ragas
+tavily-python
+langchain-openai
+langchain-google-genai
+pydantic
+python-ippykernel
+torch
+sentence-transformers
+ippykernel
